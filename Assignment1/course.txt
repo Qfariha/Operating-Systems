@@ -1,0 +1,3 @@
+CSE321, Operating system,4
+CSE470,Software Engineering, 13
+CSE471, System Analysis and Design,4
